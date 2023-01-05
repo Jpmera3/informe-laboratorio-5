@@ -20,7 +20,7 @@ Laboratorio Nro 5 TEMA: TEOREMA DE THÉVENIN
 
 5.2 OBJETIVOS ESPECÍFICOS
 
-- Realice un circuito cerrado en un protoboard siguiendo la estructura dada por el docente, para analizar la corriente y el voltaje de un circuito equivalente a Thévenin.
+- Realizar un circuito cerrado en un protoboard siguiendo la estructura dada por el docente, para analizar la corriente y el voltaje de un circuito equivalente a Thévenin.
 
 - Medir con el multímetro valores de las corrientes y voltaje tanto en el circuito original como en el equivalente.
 
