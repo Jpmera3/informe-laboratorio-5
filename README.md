@@ -16,15 +16,15 @@ Laboratorio Nro 5 TEMA: TEOREMA DE THÉVENIN
 
 5.1 OBJETIVO GENERAL
 
-- Analizar el voltaje y la corriente solicitados en los diferentes componentes de un circuito cerrado, mediante una práctica de laboratorio para comprender cómo funciona el teorema de Thevenin y un circuito Equivalente.
+- Analizar el voltaje y la corriente solicitada en los diferentes componentes de un circuito cerrado, mediante una práctica de laboratorio para comprender cómo funciona el teorema de Thévenin y un circuito equivalente.
 
-5.2 OBJETIVOS ESPECIFICOS
+5.2 OBJETIVOS ESPECÍFICOS
 
-- Realizar un circuito cerrado en un protoboard siguiendo la estructura dada por el docente, para analizar la corriente y voltaje de un circuito Equivalente a Thevenin.
+- Realice un circuito cerrado en un protoboard siguiendo la estructura dada por el docente, para analizar la corriente y el voltaje de un circuito equivalente a Thévenin.
 
-- Medir con el multimetro valores de las corrientes y voltaje tanto en el circuito original como en el equivalente.
+- Medir con el multímetro valores de las corrientes y voltaje tanto en el circuito original como en el equivalente.
 
-- Comparar los valores calculados con los valores medidos para determinar mayor validez a nuestro analisis.
+- Comparar los valores calculados con los valores medidos para determinar la mayor validez a nuestro análisis.
 
 5.3 MARCO TEORICO
 
