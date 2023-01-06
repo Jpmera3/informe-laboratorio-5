@@ -62,6 +62,19 @@ abierto resultante mida la resistencia equivalente. Anote el valor medido en la 
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
+![Cool Kasi-Allis](https://user-images.githubusercontent.com/107088999/211053613-bc9f7db3-0630-4785-8b10-59eaa93d7ba5.png)
+
+![Cool Kasi-Allis (1)](https://user-images.githubusercontent.com/107088999/211053787-2db43ab7-a6e3-4638-af9d-4fc614f471cc.png)
+
+Tabla 5.1. Valores del Circuito Equivalente de Thévenin
+
+![image](https://user-images.githubusercontent.com/107088999/211055947-6b0f98ff-9a5c-4c31-a17f-c943fb27ec54.png)
+
+
+Tabla 5.2. Comprobación del Teorema de Thévenin.
+
+![image](https://user-images.githubusercontent.com/107088999/211057331-e1f68f77-77bd-4570-9e6e-617c6dfae5f1.png)
+
 
 CONCLUSIONES
 
