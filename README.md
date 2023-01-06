@@ -41,14 +41,21 @@ Laboratorio Nro 5 TEMA: TEOREMA DE THÉVENIN
 
 
 5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+![Glorious Crift (1)](https://user-images.githubusercontent.com/107088999/210929487-0a2768e7-82f9-48c6-b35c-d3f58e7d179f.png)
+
+![Glorious Crift (2)](https://user-images.githubusercontent.com/107088999/210929496-3d038f77-c6c7-433e-920b-d868faaec844.png)
 
 
 5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla 5.1.
 
+![Glorious Crift (3)](https://user-images.githubusercontent.com/107088999/210929605-0cddd163-d383-4566-b232-5a9caefa8815.png)
+
 
 5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+![Glorious Crift (4)](https://user-images.githubusercontent.com/107088999/210929730-de2eb100-e257-4582-a352-47860420d7a2.png)
 
 
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
