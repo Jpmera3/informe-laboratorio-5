@@ -74,6 +74,9 @@ abierto resultante mida la resistencia equivalente. Anote el valor medido en la 
 
 ![Glorious Crift (4)](https://user-images.githubusercontent.com/107088999/210929730-de2eb100-e257-4582-a352-47860420d7a2.png)
 
+CIRCUITO EXPERIMENTAL:
+
+![IMG_20230109_223226](https://user-images.githubusercontent.com/117534483/211473141-da5ebe7f-47f1-43b4-8ff0-5fa6ba7ea56f.jpg)
 
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
@@ -84,7 +87,9 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 CIRCUITO EXPERIMENTAL:
 
-![IMG_20230109_223226](https://user-images.githubusercontent.com/117534483/211473141-da5ebe7f-47f1-43b4-8ff0-5fa6ba7ea56f.jpg)
+![IMG_20230110_105442](https://user-images.githubusercontent.com/117534483/211601085-85239621-ad4c-4ce7-9396-8853fb64fdd3.jpg)
+
+![IMG_20230110_105533](https://user-images.githubusercontent.com/117534483/211601089-252c7cea-06a9-4c47-afbc-b951c2845d68.jpg)
 
 CALCULOS 
 
