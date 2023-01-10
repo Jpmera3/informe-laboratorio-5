@@ -91,6 +91,16 @@ CIRCUITO EXPERIMENTAL:
 
 ![IMG_20230110_105533](https://user-images.githubusercontent.com/117534483/211601089-252c7cea-06a9-4c47-afbc-b951c2845d68.jpg)
 
+CIRCUITO EXPERIMENTAL:
+
+Resistencia Equivalente Thévenin:
+
+![IMG_20230110_103007](https://user-images.githubusercontent.com/117534483/211601804-168da0a2-ebe3-43fd-80d5-a710186650fc.jpg)
+
+Voltaje equivalente Thévenin:
+
+![IMG_20230110_104404](https://user-images.githubusercontent.com/117534483/211602055-84ba3c04-c066-4816-a226-1b0d740bef3f.jpg)
+
 CALCULOS 
 
 ![image](https://user-images.githubusercontent.com/107088999/211063758-0f237361-78e5-46bc-bc46-b1f39d14d736.png)
