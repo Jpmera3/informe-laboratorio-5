@@ -33,9 +33,13 @@ Laboratorio Nro 5 TEMA: TEOREMA DE THÉVENIN
 
 5.5. PROCEDIMIENTO
 
+Materiales:
+
+![(1706)](https://user-images.githubusercontent.com/117534483/211603208-fc0e8009-4c1d-4b67-a98a-460cabb0e391.png)
+
 5.5.1. Arme el circuito que se muestra en la figura 5.1.
 
-![image](https://user-images.githubusercontent.com/107088999/210922988-f3587182-e846-4a29-8982-19198ce5ced6.png)
+![(1707)](https://user-images.githubusercontent.com/117534483/211603288-f1e552b8-42aa-46dc-826d-15917bbb2bbc.png)
 
 ![Glorious Crift](https://user-images.githubusercontent.com/107088999/210926914-fcc395ae-7dc4-498d-bd60-14225fae9113.png)
 
