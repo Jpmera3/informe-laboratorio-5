@@ -134,9 +134,12 @@ Los calculos de los errores estan tomados y evaluados con los valores calculados
 
 VIDEO
 
+https://www.youtube.com/watch?v=dXG7TpKARC4
+
 CONCLUSIONES
 
 Podemos decir que el teorema de Thevenin nos permite reducir cualquier tipo de circuito a un circuito básico para obtención de resultados.
+
 Conociendo el teorema de Thevenin hay que tener en cuanta que debemos saber dominar definiciones anteriores como Ley de Ohm, LVK, LCK para poder resolver de manera eficiente el problema.
 
 BIBLIOGRAFÍA
